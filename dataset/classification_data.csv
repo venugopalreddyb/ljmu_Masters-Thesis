@@ -1,0 +1,20 @@
+filepaths,label
+/content/drive/MyDrive/Colab Notebooks/phising dataset1/Phising-dataset1/malicious/2018/000b78b8-d2ac-11e8-93e3-b01041fd2fc1.htm,phishing
+/content/drive/MyDrive/Colab Notebooks/phising dataset1/Phising-dataset1/malicious/2018/00a8c948-d080-11e8-8b12-b01041fd2fc1.htm,phishing
+/content/drive/MyDrive/Colab Notebooks/phising dataset1/Phising-dataset1/malicious/2018/00a7c3b8-d396-11e8-9388-b01041fd2fc1.htm,phishing
+/content/drive/MyDrive/Colab Notebooks/phising dataset1/Phising-dataset1/malicious/2020/000a74a8e820ea025e961eca64a208195e617551600f89901a6965b390a20dae.htm,phishing
+/content/drive/MyDrive/Colab Notebooks/phising dataset1/Phising-dataset1/malicious/2020/0000b6f85d47e36b8904ed4bafc931405ebfcab1e2029ec7a42952f7612f46c4.htm,phishing
+/content/drive/MyDrive/Colab Notebooks/phising dataset1/Phising-dataset1/malicious/2020/000a080395cdd7246e621cde98c5972f2a5201c161ab2abd116a04f3d0a59b18.htm,phishing
+/content/drive/MyDrive/Colab Notebooks/phising dataset1/Phising-dataset1/malicious/2019/000dbf208cf7c91f85594c560ed4af116f944d9bc6109d33057e3a005410bfca.htm,phishing
+/content/drive/MyDrive/Colab Notebooks/phising dataset1/Phising-dataset1/malicious/2019/00a0ee9ddb7f7ab11dbba57ba6c091045ca6643466f88588dff0d3ea44213b03.htm,phishing
+/content/drive/MyDrive/Colab Notebooks/phising dataset1/Phising-dataset1/malicious/2019/000b923c5ad022dab61e06e778ca7cda78e801ab589f24c7a3b563c3f93d07dc.htm,phishing
+/content/drive/MyDrive/Colab Notebooks/phising dataset1/Phising-dataset1/malicious/2019/000cc8a45966dc9a93a6e3767809403e4f83cdc11bdf426de36598e8ecfd7be2.htm,phishing
+/content/drive/MyDrive/Colab Notebooks/phising dataset1/Phising-dataset1/benign/2019/000c0c6f1c40057c736d87fd146ce63a142f7ea39c3c9d63136f22050ee715a9.htm,non_phishing
+/content/drive/MyDrive/Colab Notebooks/phising dataset1/Phising-dataset1/benign/2019/00a85f4ee99c503d90ea6a2a884ebe2873304ecc1710d565a6ef0dd1402e1f87.htm,non_phishing
+/content/drive/MyDrive/Colab Notebooks/phising dataset1/Phising-dataset1/benign/2019/000dfe90ab2ec40dc8f82f49307a9be399d943326b764094690a366639cf01b2.htm,non_phishing
+/content/drive/MyDrive/Colab Notebooks/phising dataset1/Phising-dataset1/benign/2018/000e6360-d1ea-11e8-9ddd-b01041fd2fc1.htm,non_phishing
+/content/drive/MyDrive/Colab Notebooks/phising dataset1/Phising-dataset1/benign/2018/000a7ddc-cc85-11e8-ab7d-0a2a79604fa0.htm,non_phishing
+/content/drive/MyDrive/Colab Notebooks/phising dataset1/Phising-dataset1/benign/2018/000e6361-d1ea-11e8-9ddd-b01041fd2fc1.htm,non_phishing
+/content/drive/MyDrive/Colab Notebooks/phising dataset1/Phising-dataset1/benign/2020/000a2f859aaf0168e0a2b82d2c6c8764e38d2cde322c046e3ddd5d78dbf9a0c4.htm,non_phishing
+/content/drive/MyDrive/Colab Notebooks/phising dataset1/Phising-dataset1/benign/2020/000cf35ad6990f94ab43c4777c777eb55b9fd8c997af047aed46c2aefafc408e.htm,non_phishing
+/content/drive/MyDrive/Colab Notebooks/phising dataset1/Phising-dataset1/benign/2020/0000fe55a7f8f62521c52eb4e93fa686b02f701480e80853ea6c2e10e1e1480c.htm,non_phishing
